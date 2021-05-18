@@ -62,7 +62,7 @@ Finalmente, volviendo sobre la identificación de actores pivotales. En el gráf
 
 En azul están los votantes medianos. Es decir, los que tienen al enumerar hacia su derecha o izquierda se contabiliza la misma cantidad de personas. Dado eso, ellos son los actores que dan las mayorías simples para proyectos. Y en rojo se presentan los actores pivotales de 2/3 explicado anteriormente. Ahora bien, a estas alturas que el proceso constituyente está empezando, más importante que saber los nombres específicos, es entender las visiones que están en una posicioón de ser pivotales en una discusión. Ello por dos motivos, primero porque la propia estimación tiene un margen de variación que ya expliqué en un gráfico anterior y, por ende, para efectos estadísticos cuando dos miembros de la convención tienen estimaciones traslapadas, no podemos afirmar cuál de ellos está más a la derecha o más a la izquierda. Y segundo, porque no hay que olvidar que hay aún 20 personas para las cuales este ejercicio no ha hecho una estimación de su posición ideológica. 
 
-![Figura 3]("D:/varios/convencionales/convencion_constituyente/plots/fig3.png")
+![Figura 3]("/plots/fig3.png")
 
 Los datos que sustentan los gráficos precedentes se encuentran disponible [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
 
