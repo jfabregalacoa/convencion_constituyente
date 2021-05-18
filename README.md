@@ -1,17 +1,11 @@
----
-title: "ConvencionalesConstituyentes"
-author: "Jorge Fábrega"
-date: "18-05-2021"
-output: html_document
----
+# INTRODUCCIÓN
+Entre el 15 y 16 de mayo del 2021, Chile eligió a 155 personas para que redactaran una nueva constitución. Muchas de ellas no tenían militancia o adherían a partidos o conglomerados políticos por lo que sus posturas ideológicas no eran fácilmente identificables.
+En el diario La Tercera hicieron una encuesta a todos los candidatos a nivel nacional. De poco más de 1200 candidatos, más de 950 respondieron.
+Este repositorio contiene las estimaciones de las posturas ideológicas de los que finalmente fueron elegidos a partir de esas respuestas de La Tercera. 
+Para una revisión de las posturas ideológicas del conjunto de postulantes visite: [aquí](https://www.linkedin.com/pulse/estimaci%25C3%25B3n-de-las-posiciones-ideol%25C3%25B3gicas-en-cada-uno-los-fabrega). El método usado para la estimación está descrito en "The Statistical Analysis of Roll Call Data" (Jackman, Clinton y Rivers, APSR, 2004, vol 98(2): 355-370. 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-require(readxl)
-library(shape)
-```
 
-## Estimación de la ideología de los miembros de la Convención Constituyente
+## ESTIMACION DE IDEOLOGIA EN LA CONVENCIÓN CONSTITUYENTE
 
 El 15 y 16 de mayo del 2021, Chile fue a las urnas para elegir a las 155 personas que deberán redactar un nuevo texto constitucional. Al finalizar la jornada, muchos se llevaron una gran sorpresa al constatar que un número significativo de las personas electas no estaban adscritas a ningún partido político ¿Qué piensan y cómo las ubicamos en los tradicionales ejes ideológicos? 
 
@@ -23,7 +17,7 @@ En su versión inicial, se cuenta con una estimación ideológica de 135 de los 
 
 Las bases de datos con las estimaciones están depositadas en el siguiente repositorio de Dataverse.
 
-# El método
+# EL MÉTODO
 El Diario La Tercera hizo una encuesta a los candidatos a la convención constitucional (932 postulantes respondieron su encuesta) y entre los finalmente electos, 120. Los datos fueron utilizados para elaborar un sitio interactivo denominado [Tu March Constituyente](https://interactivo.latercera.com/tu-match-constituyente/candidatos-constituyentes/). La encuesta contenía set de preguntas tales como:  
 > ¿Qué se debe introducir en la nueva Constitución respecto a este tema?  
 > ¿Qué cambios se le deben realizar al TC?  
