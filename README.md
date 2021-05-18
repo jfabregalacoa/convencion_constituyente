@@ -20,7 +20,7 @@ En su versión inicial, se cuenta con una estimación ideológica de 135 de los 
 Las bases de datos con las estimaciones están depositadas en el siguiente repositorio de Dataverse.
 
 # EL MÉTODO
-El Diario La Tercera hizo una encuesta a los candidatos a la convención constitucional (932 postulantes respondieron su encuesta) y entre los finalmente electos, 120. Los datos fueron utilizados para elaborar un sitio interactivo denominado [Tu March Constituyente](https://interactivo.latercera.com/tu-match-constituyente/candidatos-constituyentes/). La encuesta contenía set de preguntas tales como:  
+El Diario La Tercera hizo una encuesta a los candidatos a la convención constitucional (932 postulantes respondieron su encuesta) y entre los finalmente electos, 120. Los datos fueron utilizados para elaborar un sitio interactivo denominado [Tu Match Constituyente](https://interactivo.latercera.com/tu-match-constituyente/candidatos-constituyentes/). La encuesta contenía set de preguntas tales como:  
 > ¿Qué se debe introducir en la nueva Constitución respecto a este tema?  
 > ¿Qué cambios se le deben realizar al TC?  
 > ¿El Congreso Nacional debe tener una o dos cámaras?  
