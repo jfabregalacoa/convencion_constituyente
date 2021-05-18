@@ -1,4 +1,6 @@
-# INTRODUCCIÓN
+# CONVENCIÓN CONSTITUYENTE - CHILE 2021
+
+## INTRODUCCIÓN
 Entre el 15 y 16 de mayo del 2021, Chile eligió a 155 personas para que redactaran una nueva constitución. Muchas de ellas no tenían militancia o adherían a partidos o conglomerados políticos por lo que sus posturas ideológicas no eran fácilmente identificables.
 En el diario La Tercera hicieron una encuesta a todos los candidatos a nivel nacional. De poco más de 1200 candidatos, más de 950 respondieron.
 Este repositorio contiene las estimaciones de las posturas ideológicas de los que finalmente fueron elegidos a partir de esas respuestas de La Tercera. 
@@ -18,7 +20,7 @@ En su versión inicial, se cuenta con una estimación ideológica de 135 de los 
 Las bases de datos con las estimaciones están depositadas en el siguiente repositorio de Dataverse.
 
 # EL MÉTODO
-El Diario La Tercera hizo una encuesta a los candidatos a la convención constitucional (932 postulantes respondieron su encuesta) y entre los finalmente electos, 120. Los datos fueron utilizados para elaborar un sitio interactivo denominado [Tu March Constituyente](https://interactivo.latercera.com/tu-match-constituyente/candidatos-constituyentes/). La encuesta contenía set de preguntas tales como:  
+El Diario La Tercera hizo una encuesta a los candidatos a la convención constitucional (932 postulantes respondieron su encuesta) y entre los finalmente electos, 120. Los datos fueron utilizados para elaborar un sitio interactivo denominado [Tu Match Constituyente](https://interactivo.latercera.com/tu-match-constituyente/candidatos-constituyentes/). La encuesta contenía set de preguntas tales como:  
 > ¿Qué se debe introducir en la nueva Constitución respecto a este tema?  
 > ¿Qué cambios se le deben realizar al TC?  
 > ¿El Congreso Nacional debe tener una o dos cámaras?  
@@ -58,7 +60,7 @@ En azul están los votantes medianos. Es decir, los que tienen al enumerar hacia
 
 ![Figura 4](/plots/fig4.png)
 
-Los datos que sustentan los gráficos precedentes se encuentran disponible [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
+Los datos que sustentan los gráficos precedentes se encuentran disponibles [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
 
 Si usted tiene comentarios o consultas, por favor dirigirlas al email jfabrega@udd.cl.
 
