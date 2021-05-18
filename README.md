@@ -41,11 +41,11 @@ Bajo esa premisa, se puede proceder a estimar cuál es el mejor vector o conjunt
 
 El siguiente gráfico muestra que ambos métodos de estimación generan resultados similares con algunas variaciones en las estimaciones hacia los extremos de la distribución.
 
-![Figura 1]("D:/varios/convencionales/convencion_constituyente/plots/fig1.png")
+![Figura 1](/plots/fig1.png)
 
 Dado el resultado anterior, el resto del análisis se hizo considerando la estimación bayesiana puesto que permite generar intervalos de confiabilidad sobre los resultados obtenidos. 
 
-![Figura 2]("D:/varios/convencionales/convencion_constituyente/plots/fig2.png")
+![Figura 2](/plots/fig2.png)
 
   
 El siguiente gráfico resume los resultados de la estimación. Cada punto representa un miembro de la convención. La línea horizontal que cruza cada punto, es el intervalo de confiabilidad estimado. Dado que son muchas personas, sólo se incluyen los nombres de algunas de ellas en el gráfico o de lo contrario, no se podrían distinguir. 
@@ -56,13 +56,13 @@ Por último, es importante aclarar que ésta es una escala normalizada (esto es,
 
 Ahora bien, una de las preguntas que más interesa sabes es dónde están ubicados ideológicamente las personas elegidas que no provienen de los partidos y grupos políticos tradicionales. Particularmente, ¿dónde se ubican ideológicamente las personas de la lista del pueblo? En el siguiente gráfico se presenta la misma información del gráfico precedente pero agrupados por lista. Como puede verse, la lista del pueblo se ubica en un punto intermedio de Apruebo Dignidad y la Lista del Apruebo. 
 
-![Figura 3]("D:/varios/convencionales/convencion_constituyente/plots/fig3.png")
+![Figura 3](/plots/fig3.png)
 
 Finalmente, volviendo sobre la identificación de actores pivotales. En el gráfico siguiente se destacan los actores que serían claves en la discusión en la convención constituyente. Actores que por su ubicación en la distribución ideológica están son los que con mayor probabilidad dan los mínimos necesarios para cumplir con los quórums que la convención establezca en su reglamento.
 
 En azul están los votantes medianos. Es decir, los que tienen al enumerar hacia su derecha o izquierda se contabiliza la misma cantidad de personas. Dado eso, ellos son los actores que dan las mayorías simples para proyectos. Y en rojo se presentan los actores pivotales de 2/3 explicado anteriormente. Ahora bien, a estas alturas que el proceso constituyente está empezando, más importante que saber los nombres específicos, es entender las visiones que están en una posicioón de ser pivotales en una discusión. Ello por dos motivos, primero porque la propia estimación tiene un margen de variación que ya expliqué en un gráfico anterior y, por ende, para efectos estadísticos cuando dos miembros de la convención tienen estimaciones traslapadas, no podemos afirmar cuál de ellos está más a la derecha o más a la izquierda. Y segundo, porque no hay que olvidar que hay aún 20 personas para las cuales este ejercicio no ha hecho una estimación de su posición ideológica. 
 
-![Figura 4]("/convencion_constituyente/plots/fig4.png")
+![Figura 4](/plots/fig4.png)
 
 Los datos que sustentan los gráficos precedentes se encuentran disponible [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
 
