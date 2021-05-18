@@ -60,7 +60,7 @@ En azul están los votantes medianos. Es decir, los que tienen al enumerar hacia
 
 ![Figura 4](/plots/fig4.png)
 
-Los datos que sustentan los gráficos precedentes se encuentran disponible [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
+Los datos que sustentan los gráficos precedentes se encuentran disponibles [aquí](https://dataverse.harvard.edu/file.xhtml?fileId=4656268&version=1.0)
 
 Si usted tiene comentarios o consultas, por favor dirigirlas al email jfabrega@udd.cl.
 
